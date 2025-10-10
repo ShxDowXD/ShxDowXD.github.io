@@ -12,7 +12,7 @@ These patch notes can also be viewed in-game via the "Changelog" button on the m
 - Fixed all players' health not reducing after entering the "critical injury" state - causing everyone to become permanently invincible
 - **POTENTIALLY** Fixed the ever-lasting loading planet softlock bug - It was assumed to be "The Dam" interior.
 ## Removals: 
-** Removed the Cursed Scraps mod**
+  **Removed the Cursed Scraps mod**
 >     [Causing the invincibility bug]
 - **Removed "The Dam" interior**
 >     [Possibly causing the loading softlock bug]
