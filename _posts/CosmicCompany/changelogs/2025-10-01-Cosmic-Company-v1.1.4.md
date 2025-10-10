@@ -18,6 +18,7 @@ These patch notes can also be viewed in-game via the "Changelog" button on the m
 >     [Possibly causing the loading softlock bug]
 - **Removed Enemy and Scrap spawn rate scaling**
 >    [Caused the Barber enemy to spawn every day, and caused interior generation to be different for each player - de-syncing their games]
+
 ## Additions 
 - **Cause of death messages on day overview screen**
 - **Added "LobbyControl" mod - fixes some lobby issues and allows players to join when the ship is in orbit, even after the game has been started.**
