@@ -5,3 +5,32 @@ date: 2025-10-01
 categories: [Cosmic Company]
 tags: [update]
 ---
+# Cosmic Company Modpack - v1.1.4
+These patch notes can also be viewed in-game via the "Changelog" button on the main menu [If using the custom theme]
+ 
+## Fixes: 
+- Fixed all players' health not reducing after entering the "critical injury" state - causing everyone to become permanently invincible
+- **POTENTIALLY** Fixed the ever-lasting loading planet softlock bug - It was assumed to be "The Dam" interior.
+## Removals: 
+** Removed the Cursed Scraps mod**
+>     [Causing the invincibility bug]
+- **Removed "The Dam" interior**
+>     [Possibly causing the loading softlock bug]
+- **Removed Enemy and Scrap spawn rate scaling**
+>    [Caused the Barber enemy to spawn every day, and caused interior generation to be different for each player - de-syncing their games]
+## Additions: 
+- **Cause of death messages on day overview screen**
+- **Added "LobbyControl" mod - fixes some lobby issues and allows players to join when the ship is in orbit, even after the game has been started.**
+>     [Also adds options to switch the save file quickly while in game, toggle autosave and more]
+- **Added a revamped EXP System**
+>     [Displaying info and stats about each player on the day overview screen - as well as lots of extra ranks past "Leader"]
+- **Re-added Dynamic Interior Variety**
+>     [The longer you go without finding an interior, the more common it gets.]
+- **More cosmetics**
+ 
+##  **Custom Menu theme for the modpack!**
+>    [You can disable it if you don't like it by disabling the "Emblem" mod in your modlist]
+- View the changelog in game
+- Custom blue Cosmic Company theme
+- Random loading messages
+- Custom Launch screen text
