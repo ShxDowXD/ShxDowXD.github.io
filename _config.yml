@@ -1,4 +1,3 @@
-# 1
 
 # The Site Configuration
 # Test
@@ -28,7 +27,7 @@ description: >- # used by seo meta and the atom feed
  #url: "https://ShxDowXD.github.io"
 
 github:
-  username: ShxDowXD # change to your GitHub username
+#  username: ShxDowXD # change to your GitHub username
 
 # twitter:
   # username: twitter_username # change to your Twitter username
